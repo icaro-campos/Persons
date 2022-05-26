@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Persons</string>
+    <string name="first_name_person">Nome</string>
+    <string name="last_name_person">Sobrenome</string>
+    <string name="email_person">Email</string>
+    <string name="text_friends">AMIGOS</string>
+    <string name="search_person" color="@color/white">BUSCAR</string>
+</resources>
